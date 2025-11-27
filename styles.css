@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Britanic";
+    src: url("fonts/BRITANIC.TTF") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+#h1-portfolio {
+    font-family: 'Britanic';
+    font-size: 64px;
+    text-align: center;
+}
